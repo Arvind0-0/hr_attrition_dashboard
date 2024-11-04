@@ -9,3 +9,9 @@ Tenure and Performance Insights: Examines relationships between employee tenure,
 Exit Reasons: Analyzes common reasons for employee exits, enabling HR to identify underlying issues.
 Predictive Analytics: Machine learning-based analysis to predict potential future attrition trends and high-risk employee segments.
 Data Sources
+
+
+
+Here is the Screenshot of Dashboard 
+
+![image](https://github.com/user-attachments/assets/e2f721ad-9847-485b-b887-0c411088aee6)
